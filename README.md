@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there 👋, I'm Anchit Aggarwal
 
-<!--
-**aggarwalanchit4/aggarwalanchit4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) Student at NIET Greater Noida  
+🐍 Learning Python every day  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+💻 Exploring Web Development and Git/GitHub  
+🚀 Building projects and improving every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Python
+- Git & GitHub
+- HTML & CSS
+- Data Structures & Algorithms
+- Artificial Intelligence
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Git
+- GitHub
+- VS Code
+- HTML
+- CSS
+
+---
+
+## 🎯 Goals for 2026
+
+- ✅ Master Python
+- ✅ Learn DSA
+- ✅ Build AI Projects
+- ✅ Learn Full Stack Development
+- ✅ Contribute to Open Source
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aggarwalanchit4&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aggarwalanchit4&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aggarwalanchit4&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aggarwalanchit4&theme=tokyo-night)
+
+---
+
+## 🌱 Current Journey
+
+✔ Learning Python from scratch
+
+✔ Building projects
+
+✔ Uploading code every day
+
+✔ Improving problem-solving skills
+
+---
+
+⭐ Thanks for visiting my profile!
