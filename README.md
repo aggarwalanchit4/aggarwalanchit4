@@ -77,6 +77,21 @@
 ✔ Improving problem-solving skills
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aggarwalanchit4/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aggarwalanchit4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Let's connect and build amazing projects together! 🚀</strong>
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
