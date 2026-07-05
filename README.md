@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Anchit+Aggarwal;B.Tech+CSE+(AI)+Student;Python+Developer+in+Progress;Learning+AI+%26+Machine+Learning;Building+Projects+Every+Day)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aggarwalanchit4&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 ## 🚀 About Me
 
 🎓 B.Tech CSE (AI) Student at NIET Greater Noida  
