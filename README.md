@@ -11,15 +11,21 @@
 🚀 Building projects and improving every day
 
 ---
+## 🚀 Currently Building
 
-## 🚀 Currently Learning
+- 🐍 Python Learning Repository
+- 🌐 Personal Portfolio Website
+- 💻 Data Structures & Algorithms Practice
+- 🤖 AI Mini Projects
 
-- Python
-- Git & GitHub
-- HTML & CSS
-- Data Structures & Algorithms
-- Artificial Intelligence
+## 📚 Learning Roadmap
 
+🐍 Python          ██████████░░ 65%
+🌐 HTML & CSS      ████░░░░░░░░ 25%
+⚡ JavaScript      ░░░░░░░░░░░░ 0%
+🌳 Git & GitHub    ███████░░░░░ 50%
+🧠 DSA             ██░░░░░░░░░░ 15%
+🤖 AI/ML           ██░░░░░░░░░░ 10%
 ---
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -36,12 +42,12 @@
 ## 🎯 Goals for 2026
 
 - ✅ Master Python
-- ✅ Learn DSA
-- ✅ Build AI Projects
+- ✅ Learn Data Structures & Algorithms
+- ✅ Build 20+ Real Projects
 - ✅ Learn Full Stack Development
+- ✅ Explore AI & Machine Learning
 - ✅ Contribute to Open Source
-
----
+- ✅ Secure a Software/AI Internship
 
 ---
 
@@ -58,7 +64,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aggarwalanchit4&theme=tokyo-night" />
 </p>
-
 ---
 
 ## 🌱 Current Journey
@@ -72,5 +77,8 @@
 ✔ Improving problem-solving skills
 
 ---
+---
 
 ⭐ Thanks for visiting my profile!
+
+I'm always learning, building, and improving. Feel free to explore my repositories and connect with me.
