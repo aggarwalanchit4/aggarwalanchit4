@@ -58,15 +58,6 @@
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aggarwalanchit4&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
-
-
-## ⏱️ WakaTime Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 ## 📈 Contribution Graph
 
 <p align="center">
